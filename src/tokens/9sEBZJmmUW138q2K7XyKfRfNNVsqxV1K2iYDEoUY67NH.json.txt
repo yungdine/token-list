@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "9sEBZJmmUW138q2K7XyKfRfNNVsqxV1K2iYDEoUY67NH",
+  "symbol": "T",
+  "name": "TRAP",
+  "decimals": 9,
+  "logoURI": "https://i.postimg.cc/T3Z3GycK/photo-2025-03-17-13-22-08.jpg",
+  "tags": [
+    "utility-token",
+    "meme"
+  ]
+}
